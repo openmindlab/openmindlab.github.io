@@ -1,2 +1,1 @@
-openmindlab.github.io
-=====================
+# Openmind LAB blog!

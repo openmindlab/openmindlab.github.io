@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:        		openmind LAB
+tagline:      		'openmind LAB, growing coders'
+description:  		'Coding ideas, tools and tips by <a href="http://www.openmindonline.it" target="_blank">openmind</a> folks.'
+url:          		http://openmindlab.github.io
+baseurl:          /
+
+author:
+  name:       		'openmind'
+  email:      		'lab@openmindonline.it'
+
+paginate:         5
+
+# Custom vars
+version:          1.0-m1
+
+github:
+  repo:           https://github.com/openmindlab/openmindlab.github.io
